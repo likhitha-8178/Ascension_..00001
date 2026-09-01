@@ -401,7 +401,7 @@ training, placements, and industry alignment.
 
 | Team Member | Responsibility |
 |---|---|
-| **Likhitha** | Documentation |
+| **P LIKHITHA REDDY** | Documentation |
 | **Nishat Kausar** | Research |
 | **Jyoti** | Documentation |
 | **Nikhil Kumar** | Development & UI/UX |
